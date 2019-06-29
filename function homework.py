@@ -12,12 +12,3 @@ def up_low(string):
 a = up_low("Hallo Ich Kann Zaehlen")
 print (a)
 print (10)
-
-print("mega change")
-
-print("second change")
-
-print("third change"
-      )
-print('fourth vhange')
-        `
